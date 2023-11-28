@@ -22,11 +22,6 @@
 
 ---
 
-### Random Quote Generator:
-> "Here is a random quote."
-fetch('https://api.quotable.io/random')
-  .then(response => response.json())
-  .then(data => {
-    document.querySelector('.quote').innerHTML = `> "${data.content}"<br>- ${data.author}`;
-  })
-  .catch(error => console.error(error));
+### ✍️ A Random Quote to Start Your Day
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
