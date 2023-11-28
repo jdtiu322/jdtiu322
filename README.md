@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joaquin David Tiu</h1>
 <h3 align="center">A 3rd year CS student</h3>
 
+<img align="right" alt="coding" width="400" src="https://abstracta.us/wp-content/uploads/2018/10/doggy.gif">
+
 <p align="left"> <a href="https://twitter.com/chuuuujd" target="blank"><img src="https://img.shields.io/twitter/follow/chuuuujd?logo=twitter&style=for-the-badge" alt="chuuuujd" /></a> </p>
 
 - 📫 How to reach me **jdavid.tiu@gmail.com**
