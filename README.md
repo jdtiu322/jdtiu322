@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquin David Tiu</h1>
-<h3 align="center">A 3rd year CS student</h3>
+<h3 align="center">A Struggling 3rd year CS student</h3>
 
 <img align="right" alt="coding" width="400" src="https://abstracta.us/wp-content/uploads/2018/10/doggy.gif">
 
